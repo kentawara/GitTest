@@ -4,7 +4,7 @@ package Vending;
 public class AB_Display implements Account{
 	
 	AB_Display(){
-		System.out.println("GitTest");
+		System.out.println("GitTest_commit_from_test3");
 	}
 	
 	public void dis_1() {
